@@ -1,2 +1,2 @@
 #displey
-prin("Mi Phayton fie"
+prin("Mi Phayton fie")
